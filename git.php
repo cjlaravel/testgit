@@ -1,2 +1,3 @@
 <? php
-echo phpinfo();
+$a=0;
+var_dump($a);
